@@ -1,2 +1,0 @@
-### Notes
-     A constrastive  vision encoder: takes an image as an input and coverts it into an embedding (a series of embeddings). The embedding will be a vector of a fixed size and will be later cocancatenated with a text embedding 
